@@ -1,5 +1,5 @@
 package ccc;
 
-public class te1 {
+public class te2 {
 
 }
